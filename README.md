@@ -22,4 +22,5 @@ Test site working with responsive css
 20. Changing text style with strong
 21. Using google fonts
 22. Setting widths on flexbox elements in a row to not equal 100% ex 20%, 20%, 45% = 85% the rest 15% will be the space that is dividet between the elements if you want to use space-between. If the total is 100% the space-between will not work
-
+23. When using main and aside they are here wrapped in a container  for controlling spacing and flexbox-direction depending on screen size
+24. Setting the role="main" on the main element for screen readers aria it tells the screen reader that the element with role main is the main content area
